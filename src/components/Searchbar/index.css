@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.searchbox {
+    width: 700px;
+    height: 50px;
+    background-color: #DDDDDD;
+    margin-top: 50px;
+    margin-left: 400px;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 0.3em;
+}
+.whichjob {
+    position: relative;
+    padding: 5px;
+    width: 42%;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: #FFF7FC;
+    font-family: "Encode Sans Expanded";
+    font-weight: 5400;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+}
+.whichstate {
+    position: relative;
+    padding: 5px;
+    width: 40%;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: #FFF7FC;
+    font-family: "Encode Sans Expanded";
+    font-weight: 5400;
+    font-size: 16px;
+    color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.search {
+    position: relative;
+    padding: 5px;
+    width: 14%;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    background-color: #5755FE;
+    font-family: Truculenta;
+    font-weight: 800;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}

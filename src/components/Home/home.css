@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.heading {
+    position: relative;
+    margin-top: 50px;
+    margin-left: 420px;
+    font-family: Poppins;
+    font-weight: 800;
+    font-size: x-large;
+    width: 42%;
+    height: 20%;
+    padding: 10px;
+    border: none;
+}
+.heading span {
+    color: red;
+}
+.resume {
+    margin-top: 25px;
+    margin-left: 500px;
+    font-family: Truculenta;
+    font-weight: 700;
+    font-size: large;
+}
+.resume span {
+    color: red;
+}
+.resume span:hover {
+    cursor: pointer;
+}
+
+.hiring {
+    margin-top: 25px;
+    margin-left: 520px;
+    font-family: Truculenta;
+    font-weight: 700;
+    font-size: large;
+}
+.hiring span {
+    color: red;
+}
+.hiring span:hover {
+    cursor: pointer;
+}
