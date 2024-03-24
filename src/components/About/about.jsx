@@ -1,6 +1,6 @@
 import React from "react";
-import Search from "/src/components/Searchbar/searchbar.jsx";
-import Cards from "/src/components/Cards/cards.jsx";
+import Search from "./src/components/Searchbar/searchbar.jsx";
+import Cards from "./src/components/Cards/cards.jsx";
 import "./about.css";
 
 function About() {
