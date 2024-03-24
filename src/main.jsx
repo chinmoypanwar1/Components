@@ -9,9 +9,9 @@ import {
 } from "react-router-dom";
 
 import Layout from "./Layout.jsx";
-import Home from "./src/components/Home/home.jsx";
-import About from "./src/components/About/about.jsx";
-import Contact from "./src/components/Contact/contact.jsx";
+import Home from "/src/components/Home/home.jsx";
+import About from "/src/components/About/about.jsx";
+import Contact from "/src/components/Contact/contact.jsx";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
